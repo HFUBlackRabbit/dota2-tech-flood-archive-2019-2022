@@ -1,0 +1,29 @@
+{
+  "verified_at": "2026-11-01T19:11:10.621548+00:00",
+  "ok": true,
+  "warnings": [
+    "Source numbering contains 12 duplicate ordinals; distinct post IDs retained and compared with raw pages",
+    "Source numbering has 13 non-increasing transitions; raw/JSONL post identity and order remain authoritative"
+  ],
+  "error_count": 0,
+  "warning_count": 2,
+  "expected_pages": 1344,
+  "snapshot_cutoff_post_id": 26619911,
+  "snapshot_cutoff_ordinal": 33593,
+  "raw_pages_checked": 1344,
+  "raw_unique_posts": 33410,
+  "raw_posts_beyond_snapshot": 0,
+  "sqlite_integrity_check": [
+    "ok"
+  ],
+  "sqlite_posts": 33410,
+  "fts_indexed_posts": 33410,
+  "jsonl_unique_posts": 33410,
+  "ordinal_min": 1,
+  "ordinal_max": 33593,
+  "duplicate_ordinal_count": 12,
+  "duplicate_ordinal_extra_posts": 13,
+  "nonincreasing_ordinal_count": 13,
+  "first_post_at": "2019-08-11T21:10:20+00:00",
+  "last_post_at": "2022-02-19T18:40:10+00:00"
+}

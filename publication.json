@@ -1,0 +1,14 @@
+{
+  "repository_name": "dota2-tech-flood-archive-2019-2022",
+  "title": "Архив технической флудильни Dota2.ru: 2019–2022",
+  "description": "Архивная история участников и технических дискуссий треда Dota2.ru за 2019–2022 годы.",
+  "archive_scope": "Исторический тред и его исследование; GitHub Archive status не установлен.",
+  "source_thread": "https://dota2.ru/forum/threads/texnicheskaja-fludilnja.1300377/",
+  "continuation_research": "https://github.com/HFUBlackRabbit/dota2-tech-flood-study",
+  "snapshot_posts": 33410,
+  "snapshot_cutoff_post_id": 26619911,
+  "selected_participants": 25,
+  "technical_factcheck_scope": "выборочная проверка отдельных существенных тезисов",
+  "omitted": ["полная база SQLite", "полные сообщения в JSONL", "HTML форума", "файлы изображений и видео", "рабочие журналы вне coverage.json"],
+  "verification_scope": "scripts/validate.py проверяет только внутреннюю согласованность опубликованного комплекта; source-verification.json описывает прежнюю проверку исходного архива."
+}
